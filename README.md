@@ -9,3 +9,5 @@ to indicate the destination based on a geographic coordinate system. It makes it
 enter the latitude and longitude coordinates and navigate towards the location.
 
 ![footer](https://i.imgur.com/pL8JhHK.png)
+
+Jerzy Wiśniewski
