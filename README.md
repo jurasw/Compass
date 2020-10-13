@@ -1,6 +1,6 @@
 # Compass 🧭
 
-<div style="text-align:center">![icon](https://i.imgur.com/6tCCcaZ.png)</div>
+![icon](https://i.imgur.com/6tCCcaZ.png)
 
 [APK DOWNLAD](https://drive.google.com/file/d/1MBnDeJYjmdpJz6btyrMqmnRy2FgVImTn/view?usp=sharing)
 
