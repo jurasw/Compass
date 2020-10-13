@@ -1,4 +1,4 @@
-# Compass
+# Compass 🧭
 
 ![icon](https://i.imgur.com/6tCCcaZ.png)
 
